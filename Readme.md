@@ -4,14 +4,13 @@
   <h2 align='center'>JAIME SENDRA</h2>
 
 <h4 align='center'>Data Scientist | Machine Learning Engineer | Deep Learning Engineer | PLC Programmer | Robotic System Integrator</h4>
-
+  </br></br>
   Hey there 👋 I'm Jaime Sendra a passionate self-taught in data science and deep learning 🚀 from Spain.
 </h1>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420
   " height="250" />
 
-</br></br>
 **Talking about Personal Stuffs:**
 
 - 💻 I’m professionally dedicated to Computer Vision and Robotics.
