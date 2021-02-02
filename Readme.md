@@ -2,7 +2,6 @@
 <h1 align='center'>
 
   <h2 align='center'>JAIME SENDRA</h2>
-
 <h3 align='center'>Data Scientist | Machine Learning Engineer | 
 Deep Learning Engineer | PLC Programmer | Robotic System Integrator</h3>
 
