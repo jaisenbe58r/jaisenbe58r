@@ -4,7 +4,7 @@
   <h2 align='center'>JAIME SENDRA</h2>
 
 <h4 align='center'>Data Scientist | Machine Learning Engineer | Deep Learning Engineer | PLC Programmer | Robotic System Integrator</h4>
-  </br></br>
+
   Hey there 👋 I'm Jaime Sendra a passionate self-taught in data science and deep learning 🚀 from Spain.
 </h1>
 
