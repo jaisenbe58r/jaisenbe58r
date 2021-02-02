@@ -1,14 +1,14 @@
 
-<h2 align='center'>
+<h1 align='center'>
 
-  <h3 align='center'>JAIME SENDRA</h3>
+  <h2 align='center'>JAIME SENDRA</h2>
 
 <h4 align='center'>Data Scientist | Machine Learning Engineer | Deep Learning Engineer | PLC Programmer | Robotic System Integrator</h4>
 
   Hey there 👋 I'm Jaime Sendra a passionate self-taught in data science and deep learning 🚀 from Spain.
-</h2>
+</h1>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400
   " height="220" />
   
 **Talking about Personal Stuffs:**
