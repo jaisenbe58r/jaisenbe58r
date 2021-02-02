@@ -8,8 +8,8 @@
   Hey there 👋 I'm Jaime Sendra a passionate self-taught in data science and deep learning 🚀 from Spain.
 </h1>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400
-  " height="220" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420
+  " height="250" />
   
 **Talking about Personal Stuffs:**
 
@@ -17,6 +17,7 @@
 - 📖 I am currently specializing in NLP.
 - 💬 Ask me about anything, I am happy to help.
 
+<br></br>
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jaime_rafel)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://jaimesendraberenguer.medium.com/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jaisenbe/)
