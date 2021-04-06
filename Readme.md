@@ -28,5 +28,5 @@ Deep Learning Engineer  |  PLC Programmer  |  Robotic System Integrator</h4>
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](@jaimesendraberenguer@gmail.com)
 <!-- 
 [![jaisenbe58r's github stats](https://github-readme-stats.vercel.app/api?username=jaisenbe58r&theme=blue-green)](https://github.com/jaisenbe58r/github-readme-stats) -->
-</br></br>
+
 <img align="left" alt="jaisenbe58r's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jaisenbe58r&show_icons=true&hide_border=true" />
