@@ -13,7 +13,7 @@ Deep Learning Engineer  |  PLC Programmer  |  Robotic System Integrator</h4>
 
 **Talking about Personal Stuffs:**
 
-- 🤖 Machine Learning
+- 📊 Machine Learning
 - 💻 Deep Learning
 - 📖 Natural Language Processing
 - 🖼️ Image Processing
