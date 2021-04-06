@@ -13,8 +13,12 @@ Deep Learning Engineer  |  PLC Programmer  |  Robotic System Integrator</h4>
 
 **Talking about Personal Stuffs:**
 
-- 💻 I’m professionally dedicated to Computer Vision and Robotics.
-- 📖 I am currently specializing in NLP.
+- 🤖 Machine Learning
+- 💻 Deep Learning
+- 📖 Natural Language Processing
+- 🖼️ Image Processing
+- 🤖 Robotic Programmer
+- 🖥️ PLC Programmer
 - 💬 Ask me about anything, I am happy to help.
 </br></br>
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jaime_rafel)
